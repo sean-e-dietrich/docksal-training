@@ -21,7 +21,7 @@
   "environment": {
     "uilayout": "editor-terminal",
     "showdashboard": true,
-    "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 443", "port": 443}]
+    "dashboards": [{"name": "Display 80", "port": 80, "host": "host02"}]
   },
   "backend": {
     "imageid": "ubuntu1804"
