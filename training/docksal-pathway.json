@@ -1,0 +1,13 @@
+{
+  "title": "Docksal",
+  "description": "Docksal",
+  "courses": [
+    {
+      "pathway_id": "sean-e-dietrich",
+      "title": "Installing Docksal",
+      "id": "installing",
+      "course_id": "installing",
+      "description": "Steps to install Docksal"
+    }
+  ]
+}
