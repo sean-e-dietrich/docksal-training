@@ -1,13 +1,18 @@
 {
   "title": "Installing Docksal",
-  "description": "Steps to install Docksal",
+  "description": "Learn about how easy it is to start installing Docksal.",
   "difficulty": "Beginner",
-  "time": "5 minutes",
+  "time": "5-10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Step 1 - Installing",
+        "text": "step1.md",
+        "verify": "step1-verify.sh"
+      },
+      {
+        "title": "Step 2 - Verifying",
+        "text": "step2.md"
       }
     ],
     "intro": {

@@ -1,0 +1,11 @@
+{
+  "title": "Docksal",
+  "description": "Learn how to use this local development tool to speed up development.",
+  "courses": [
+    {
+      "course_id": "installing",
+      "title": "Installing Docksal",
+      "description": "Learn about how easy it is to start installing Docksal."
+    }
+  ]
+}
