@@ -1,0 +1,29 @@
+{
+  "title": "Creating A New Project",
+  "description": "Creating a new project using the docksal.",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "install.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "showdashboard": true,
+    "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 443", "port": 443}]
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
